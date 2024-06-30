@@ -1,6 +1,8 @@
 # Ampere's Law Simulation
 A simple demonstration of Ampere's Law using VPython. 
 
+Please do leave a star ⭐ if you found this interesting! Feedback is appreciated!
+
 
 # Link
 https://www.glowscript.org/#/user/shrirammvasudevan/folder/MyPrograms/program/Ampere'sLaw
